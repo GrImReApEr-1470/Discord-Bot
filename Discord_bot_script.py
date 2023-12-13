@@ -71,4 +71,4 @@ def get_auth_token(server_id):
     return result[0] if result else None
 
 # Run the bot with its token
-bot.run('MTE4NDQ0NjM3MzY4NTM3NDk3Ng.GwvcJn.7_8QCV6tVXYpwydj2Ryr8CuqpDP1sOdVNxHV2E')
+bot.run('MTE4NDQ0NjM3MzY4NTM3NDk3Ng.G2XcF0.OXYQvy8RX6qtus7XEGu0M5fER3zf6-DBVjf5LE')
