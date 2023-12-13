@@ -71,5 +71,5 @@ def get_auth_token(server_id):
     return result[0] if result else None
 
 # Run the bot with its token
-# Token is provided in the internshala assignment because discord detects the token and disables it.
+# Token is provided in the documentation and the internshala assignment because discord detects the token and disables it.
 bot.run('Bot Token')
